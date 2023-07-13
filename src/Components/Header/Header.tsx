@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import logo from "../../images/logoYellow.png";
 import Image from "next/image";
+import logo from "../../Images/logoYellow.png";
 import styles from "./Header.module.css";
 import Link from "next/link";
 import burger from "../../images/burger-menu-right 1.png";

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Header from "@/Components/Header/Header";
+import Header from "../Components/Header/Header";
 import styles from "@/styles/Home.module.css";
 import myPhoto from "../Images/me.png";
 import reactImg from "../Images/Heroicons/react.png";

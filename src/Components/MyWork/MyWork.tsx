@@ -9,7 +9,7 @@ import github from "../../Images/PagePhotos/github.png";
 const pages = [
   {
     link: "https://gamefe.vercel.app/",
-    name: "Page for Selling Games",
+    name: "Marketplace for games",
     description: "Here I created a page where you can sell your games",
     img: gamePage,
   },
@@ -22,7 +22,7 @@ const pages = [
   {
     link: "https://github.com/ArnoldasKolo",
     name: "My GitHub",
-    description: "Here you can see all of my work code ",
+    description: "Here you can see all of my work ",
     img: github,
   },
 

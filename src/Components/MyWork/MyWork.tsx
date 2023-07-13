@@ -10,13 +10,13 @@ const pages = [
   {
     link: "https://gamefe.vercel.app/",
     name: "Page for Selling Games",
-    description: "Here i created a page where you can sell your games",
+    description: "Here I created a page where you can sell your games",
     img: gamePage,
   },
   {
     link: "https://hwfront.vercel.app/",
     name: "HomeWork Page",
-    description: "Here i created a page where you can write all my exams and homework ",
+    description: "Here I created a page where you can write all my exams and homework ",
     img: homeWorkPage,
   },
   {

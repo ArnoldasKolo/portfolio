@@ -1,6 +1,7 @@
 import styles from "./Work.module.css";
 import gamePage from "../../Images/PagePhotos/gamePage.png";
 import homeWorkPage from "../../Images/PagePhotos/Screenshot 2023-07-12 103051.png";
+import cryptoPage from "@/Images/PagePhotos/crypto.png"
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -17,7 +18,7 @@ const pages = [
     link: "https://cryptofe.vercel.app/",
     name: "Crypto page",
     description: "Here I created a page where you can track crypto daily changes",
-    img: gamePage,
+    img: cryptoPage,
   },
   {
     link: "https://hwfront.vercel.app/",

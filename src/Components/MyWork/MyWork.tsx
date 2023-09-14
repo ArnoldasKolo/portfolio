@@ -14,6 +14,12 @@ const pages = [
     img: gamePage,
   },
   {
+    link: "https://cryptofe.vercel.app/",
+    name: "Crypto page",
+    description: "Here I created a page where you can track crypto daily changes",
+    img: gamePage,
+  },
+  {
     link: "https://hwfront.vercel.app/",
     name: "HomeWork Page",
     description: "Here I created a page where you can write all my exams and homework ",
